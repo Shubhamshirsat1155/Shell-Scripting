@@ -7,4 +7,5 @@ echo "I'm from DevOps Batch-Sep"
 echo "hii evryone"
 echo "i am from pune"
 
+echo "we are learning git and github"
 
